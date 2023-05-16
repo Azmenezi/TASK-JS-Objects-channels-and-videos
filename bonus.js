@@ -7,9 +7,7 @@ const channels = require("./channels.json");
  *
  * BONUS: use iteration method `.reduce()`
  ****************************************************************/
-function totalVideosDuration(channel) {
-  // Your code here
-}
+const totalVideosDuration = (channel) =>
 
 /**************************************************************
  * channelWithMostContent(channels):
